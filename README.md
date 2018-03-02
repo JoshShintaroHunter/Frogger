@@ -18,6 +18,8 @@ Code implented here by me, for simple object generation and logical operations o
 <h2>resources.js</h2>
 Provided by udacity, a simple image generating utility.
 
+# CSS
+
 <h2>styles.css</h2>
 Basic styling for the html page.
 
