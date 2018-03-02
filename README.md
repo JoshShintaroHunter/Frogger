@@ -15,8 +15,10 @@ A game engine was provided by udacity for the generation and movement of the ena
 <h2>app.js</h2>
 Code implented here by me, for simple object generation and logical operations of the game, such as movement, position reset and winner resets.
 
-<h2>resources.ja</h2>
+<h2>resources.js</h2>
 Provided by udacity, a simple image generating utility.
+
+# CSS
 
 <h2>styles.css</h2>
 Basic styling for the html page.
