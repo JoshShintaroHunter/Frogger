@@ -23,6 +23,9 @@ Provided by udacity, a simple image generating utility.
 <h2>styles.css</h2>
 Basic styling for the html page.
 
+ # Running Program
+
+ Make sure all files are included in the same folder to maintain src integrity. 
 
 
 
