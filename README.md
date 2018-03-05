@@ -25,6 +25,8 @@ Basic styling for the html page.
 
  # Running Program
 
+ Begin by openning the index.html file with your web browser.
+
  Make sure all files are included in the same folder to maintain src integrity. 
 
 
